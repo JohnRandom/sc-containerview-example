@@ -1,0 +1,8 @@
+# sproutcore folders
+tmp/
+frameworks/
+
+# tmp files
+*.swp
+*~
+*.orig

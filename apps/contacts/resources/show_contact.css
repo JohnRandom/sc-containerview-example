@@ -1,0 +1,10 @@
+.show-contact table {
+  width: 50%;
+}
+
+.show-contact table th {
+  padding-right: 10px;
+  text-align: right;
+  font-weight: bold;
+  width: 120px;
+}
