@@ -17,23 +17,20 @@ Contacts.Contact.FIXTURES = [
      lastName: "Peters",
      street: "Main Street 113",
      zip: "12345",
-     city: "Metropolis",
-     description: "" },
+     city: "Metropolis" },
   
    { guid: 2,
      firstName: "Bruce",
      lastName: "Wayne",
      street: "Hill Street 14-25",
      zip: "10010",
-     city: "Gotham City",
-     description: "" },
+     city: "Gotham City" },
   
    { guid: 3,
      firstName: "Peter",
      lastName: "Parker",
      street: "Oxfrod Street",
      zip: "60234",
-     city: "New York",
-     description: "" }
+     city: "New York" }
 
 ];
